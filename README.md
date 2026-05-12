@@ -27,6 +27,11 @@
   <a href="https://github.com/saulandresv/clon-bloodpoint-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saulandresv&repo=clon-bloodpoint-app&hide_border=true&bg_color=ffffff" />
   </a>
+  <a href="https://github.com/saulandresv/clon-bloodpoint-core2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saulandresv&repo=clon-bloodpoint-core2&hide_border=true&bg_color=ffffff" />
+  </a>
+</p>
+<p>
   <a href="https://github.com/saulandresv/-notas-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saulandresv&repo=-notas-&hide_border=true&bg_color=ffffff" />
   </a>
