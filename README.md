@@ -20,6 +20,7 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=flat-square"/>
     </td>
     <td valign="top" width="50%">
       <a href="https://github.com/saulandresv/gestion_agil_duoc"><b>gestion_agil_duoc</b></a><br/><br/>
