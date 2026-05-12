@@ -51,33 +51,67 @@
   </tr>
 </table>
 
-<br/>
+---
 
-<details>
-<summary><b>BloodPoint</b> — proyecto de título en equipo (frontend + backend)</summary>
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:2d0505,100:1a0000&height=100&section=header&text=%F0%9F%A9%B8%20BloodPoint&fontSize=30&fontAlignY=72&fontColor=ff6b6b&desc=Proyecto%20de%20t%C3%ADtulo%20%C2%B7%20DuocUC%202025%20%C2%B7%20Equipo%20Camilink&descAlignY=90&descColor=cc6666&descSize=13" />
+
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/saulandresv/clon-bloodpoint-app"><b>BloodPoint App</b></a><br/><br/>
-      App móvil de donación de sangre — escaneo QR, push notifications, Android<br/><br/>
-      <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white&style=flat-square"/>
-      <br/><sub>Original: <a href="https://github.com/Camilink/BloodPoint">Camilink/BloodPoint</a></sub>
+      <br/>
+      <p align="center"><a href="https://github.com/saulandresv/clon-bloodpoint-app"><b>📱 BloodPoint App</b></a></p>
+      <p align="center"><sub>Frontend móvil</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      </p>
+      <br/>
+      <sub><b>Mis aportes</b></sub><br/>
+      <sub>
+        ✦ Auth — login y registro conectados al backend<br/>
+        ✦ QR nativo vía MLKit (no web)<br/>
+        ✦ Firebase push notifications<br/>
+        ✦ Sistema de logros del donante<br/>
+        ✦ Selección de lugar de donación con mapa<br/>
+        ✦ Módulo chatbot integrado<br/>
+      </sub>
+      <br/>
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/saulandresv/clon-bloodpoint-core2"><b>BloodPoint API</b></a><br/><br/>
-      Backend REST — autenticación, analytics con Superset, notificaciones async<br/><br/>
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
-      <br/><sub>Original: <a href="https://github.com/Camilink/BloodPoint-core">Camilink/BloodPoint-core</a></sub>
+      <br/>
+      <p align="center"><a href="https://github.com/saulandresv/clon-bloodpoint-core2"><b>⚙️ BloodPoint API</b></a></p>
+      <p align="center"><sub>Backend REST</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square"/>
+      </p>
+      <br/>
+      <sub><b>Mis aportes</b></sub><br/>
+      <sub>
+        ✦ Auth JWT — token, CORS, login por RUT y email<br/>
+        ✦ Donaciones, historial y registro por QR<br/>
+        ✦ Campañas y solicitudes de campaña<br/>
+        ✦ Sistema de logros completo (modelos → seed)<br/>
+        ✦ Notificaciones push con Firebase Admin<br/>
+        ✦ Deploy con Gunicorn en Render / Heroku<br/>
+      </sub>
+      <br/>
     </td>
   </tr>
 </table>
-</details>
+
+<p align="center"><sub>Repositorio original del equipo: <a href="https://github.com/Camilink/BloodPoint">Camilink/BloodPoint</a></sub></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:0d1117&height=80&section=footer" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:16213e&height=80&section=footer" />
