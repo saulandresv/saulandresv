@@ -1,5 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:16213e&height=220&section=header&text=Saúl%20Vega&fontSize=62&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer&descAlignY=58&descAlign=50&descColor=94a3b8&descSize=20" />
 
+<br/>
+
+<p align="center">TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Vue &nbsp;·&nbsp; React &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Django</p>
+
+<br/>
 
 ---
 
@@ -38,22 +43,6 @@
       <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square"/>
     </td>
     <td valign="top">
-      <a href="https://github.com/saulandresv/clon-bloodpoint-app"><b>BloodPoint App</b></a><br/><br/>
-      App móvil de donación de sangre — Android vía Capacitor, escaneo QR, push notifications<br/><br/>
-      <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white&style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/saulandresv/clon-bloodpoint-core2"><b>BloodPoint API</b></a><br/><br/>
-      Backend REST — autenticación, analytics con Superset, notificaciones async<br/><br/>
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
-    </td>
-    <td valign="top">
       <a href="https://github.com/saulandresv/-notas-"><b>notas</b></a><br/><br/>
       App de escritorio para notas flotantes — siempre encima, atajos globales, múltiples ventanas<br/><br/>
       <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square"/>
@@ -61,6 +50,33 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<details>
+<summary><b>BloodPoint</b> — proyecto de título en equipo (frontend + backend)</summary>
+<br/>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/saulandresv/clon-bloodpoint-app"><b>BloodPoint App</b></a><br/><br/>
+      App móvil de donación de sangre — escaneo QR, push notifications, Android<br/><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white&style=flat-square"/>
+      <br/><sub>Original: <a href="https://github.com/Camilink/BloodPoint">Camilink/BloodPoint</a></sub>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/saulandresv/clon-bloodpoint-core2"><b>BloodPoint API</b></a><br/><br/>
+      Backend REST — autenticación, analytics con Superset, notificaciones async<br/><br/>
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+      <br/><sub>Original: <a href="https://github.com/Camilink/BloodPoint-core">Camilink/BloodPoint-core</a></sub>
+    </td>
+  </tr>
+</table>
+</details>
 
 <br/>
 
