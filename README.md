@@ -1,11 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:16213e&height=220&section=header&text=Saúl%20Vega&fontSize=62&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer&descAlignY=58&descAlign=50&descColor=94a3b8&descSize=20" />
 
-<br/>
-
-<p align="center">TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Vue &nbsp;·&nbsp; React &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Django</p>
-
-<br/>
-
 ---
 
 ### Stack
