@@ -53,7 +53,7 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:2d0505,100:1a0000&height=100&section=header&text=%F0%9F%A9%B8%20BloodPoint&fontSize=30&fontAlignY=72&fontColor=ff6b6b&desc=Proyecto%20de%20t%C3%ADtulo%20%C2%B7%20DuocUC%202025%20%C2%B7%20Equipo%20Camilink&descAlignY=90&descColor=cc6666&descSize=13" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:2d0505,100:1a0000&height=100&section=header&text=%F0%9F%A9%B8%20BloodPoint&fontSize=30&fontAlignY=72&fontColor=ff6b6b&desc=Proyecto%20de%20t%C3%ADtulo%20%C2%B7%20DuocUC%202025%20%C2%B7%20Equipo%20Bloodpoint&descAlignY=90&descColor=cc6666&descSize=13" />
 
 <table>
   <tr>
